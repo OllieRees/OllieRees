@@ -1,7 +1,4 @@
 # Biography
-I am a Master's Student at the University of Southampton, studying Operational Research and Statistics.    
-I have an interest in Machine Learning, Data Science, Optimisation, and the Mathematics behind Computer Science.    
-I'm willing to work on most projects, and build my repertoire of skills and projects.
 
 
 <!--
